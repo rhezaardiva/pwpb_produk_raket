@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aplikasi Produk Raket</string>
+    <string name="astrox99">Astrox 99</string>
+    <string name="deskripsiastrox">
+        Salah satu dari 10 seri raket ASTROX bernama ASTROX 99 memiliki keunggulan seperti memberi serangan curam dan membanjiri oposisi dengan serangan cepat dan kuat. Untuk pemain yang senang melakukan smash miring dan melakukan tembakan curam demi menaklukkan titik pada lawan maka raket ini sangat cocok dijadikan pilihan.
+    </string>
+    <string name="deskripsiastrox2">Dengan menggunakan teknologi yang super canggih maka ASTROX 99 wajib dimiliki oleh setiap atlet badminton yang berada di belahan dunia manapun. Adapun teknologi yang digunakan antara lain Energy Boost Cap, Rational Generator System, Nanometric, New Full Frame Namd, Namd, Isometric, New Grommet Pattern, Solid Feel Core, Aero+Box Frame, ‘NEW’ Built-in T-Joint, dan Super Slim Long Shaft. Berikut penjelasan dari teknologi yang digunakan Yonex ASTROX 99.</string>
+    <string name="model">Yonex Astrox 99</string>
+    <string name="flex">Stiff</string>
+    <string name="bingkai">H.M. GRAPHITE \nNamd \nNANOMETRIC \nTungsten\n
+    </string>
+    <string name="tangkai">H.M. Graphite \nNamd\n</string>
+    <string name="ukurangrip">4U (Sekitar 83 gram) G4, 5, 6\n3U (Sekitar 88 gram) G3, 4, 5\n</string>
+    <string name="anjuransenar">4U 20-28 lbs\n3U 21-29 lbs\n</string>
+    <string name="warna">Sunshine Orange</string>
+    <string name="dibuat">Jepang</string>
+    <string name="harga">Rp. 2.700.000</string>
+    <string name="penjual">Penjual</string>
+    <string name="nama_penjual">Rheza Ardhiva</string>
+
+</resources>
